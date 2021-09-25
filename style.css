@@ -1,0 +1,37 @@
+body {
+    background-color: coral;
+    font-family: Tahoma;
+}
+
+.photo{
+    width: auto;
+    border: 1px solid #808080;
+    border-radius: 100%;
+}
+#title{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+#title, .subtitle, .posttitle {
+    color: blue;
+}
+.posttitle {
+    font-size: 16px;
+    font-style: italic;  
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.post {
+    background-color: floralwhite;
+    padding: 10px;
+    border: 1px dotted black;
+    border-radius: 2%;
+    margin-bottom: 15px;
+}
+.postcontent {
+    margin: 0px;
+    margin-bottom: 15px;
+}
+.postimage{
+    margin-bottom: 15px;
+}
